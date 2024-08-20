@@ -1,0 +1,19 @@
+perfil usuario netflix: (como manejamos los cambios)
+
+parte mas estatica
+
+nombre usuario
+pais/region
+edad(no literalmente, mas que nada si es mayor de edad nomas)
+peliculas/series que les dio like
+actores favoritos
+
+parte mas dinamica
+
+generos que le gustan(un top 3 aunque sea de los generos que mas mira, o que dio likes)
+duracion promedio de lo que ve (peliculas/series)
+si ve mas peliculas o ve mas series(si ve mas cosas animadas, o con personas reales)
+
+
+
+Lo que habria que almacenar/guardar son los datos personales, y las peliculas/series que miro, junto con el dato de si le gusto o no
